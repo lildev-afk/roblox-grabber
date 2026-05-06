@@ -50,4 +50,4 @@ This project is for educational use only. No license is provided.
 
 ---
 
-**Sponsored by:** Join our Telegram channel [@nomadstealer](https://t.me/nomadstealer) for more educational content and updates!
+**Sponsored by:** Join our Telegram channel [@morddev](https://t.me/morddev) for more educational content and updates!
