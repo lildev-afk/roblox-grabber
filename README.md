@@ -98,4 +98,4 @@ Join our Telegram channel for more educational content, updates, and discussions
 
 ---
 
-**Sponsored by:** Join our Telegram channel [@morddev](https://t.me/morddev) for more educational content and updates!
+**Join our Telegram channel [@morddev](https://t.me/morddev) for more educational content and updates!**
