@@ -2,7 +2,7 @@
 
 [![Go Version](https://img.shields.io/badge/Go-1.21+-00ADD8?style=for-the-badge&logo=go)](https://golang.org/)
 [![Python Version](https://img.shields.io/badge/Python-3.8+-3776AB?style=for-the-badge&logo=python)](https://python.org/)
-[![Educational](https://img.shields.io/badge/Purpose-Educational-red?style=for-the-badge&logo=book)](https://github.com/yourusername/nomad)
+[![Educational](https://img.shields.io/badge/Purpose-Educational-red?style=for-the-badge&logo=book)]()
 [![Telegram](https://img.shields.io/badge/Telegram-@morddev-2CA5E0?style=for-the-badge&logo=telegram)](https://t.me/morddev)
 
 > **⚠️ Disclaimer:** This project is created solely for educational and research purposes. The author takes no responsibility for any misuse or illegal activities conducted with this software. Use at your own risk and ensure compliance with all applicable laws and regulations. 📚
